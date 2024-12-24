@@ -1,7 +1,7 @@
 ---
 layout: chip_gallery
 title: Chip Gallery
-slug: /chip%20gallery
+slug: /chip-gallery
 items:
   - title: My Interest 1
     image:
