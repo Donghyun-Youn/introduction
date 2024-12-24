@@ -1,7 +1,7 @@
 ---
 layout: work
 title: Work
-slug: /work
+slug: /chip%20gallery
 items:
   - title: My Interest 1
     image:
