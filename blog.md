@@ -1,5 +1,5 @@
 ---
-layout: publications
+layout: blog
 title: Publications
 slug: /publications
 ---
