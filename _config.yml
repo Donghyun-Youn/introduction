@@ -14,7 +14,7 @@ header:
     - name: Home
       slug: /
     - name: Publications
-    - name: Chip Gallery
+    - name: Gallery
     - name: Resume
 
 footer:
