@@ -1,6 +1,6 @@
 ---
 layout: work
-title: Work
+title: Chip Gallery
 slug: /chip%20gallery
 items:
   - title: My Interest 1
