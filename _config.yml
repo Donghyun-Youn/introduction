@@ -13,8 +13,9 @@ header:
   pages:
     - name: Home
       slug: /
-    - name: Work
-    - name: Blog
+    - name: Publications
+    - name: Chip Gallery
+    - name: Resume
 
 footer:
   show_powered_by: true
